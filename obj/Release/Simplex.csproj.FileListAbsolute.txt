@@ -1,0 +1,17 @@
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\bin\Release\Simplex.exe
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\bin\Release\Simplex.pdb
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Release\Simplex.Form1.resources
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Release\Simplex.Properties.Resources.resources
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Release\Simplex.csproj.GenerateResource.Cache
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Release\Simplex.exe
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Release\Simplex.pdb
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\bin\Release\Simplex.exe
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\bin\Release\Simplex.pdb
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Release\Simplex.Form1.resources
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Release\Simplex.Properties.Resources.resources
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Release\Simplex.csproj.GenerateResource.Cache
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Release\Simplex.exe
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Release\Simplex.pdb
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Release\Simplex.frmResults.resources

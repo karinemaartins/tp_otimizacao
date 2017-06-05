@@ -1,0 +1,38 @@
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\bin\Debug\Simplex.exe
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\bin\Debug\Simplex.pdb
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Debug\Simplex.Form1.resources
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Debug\Simplex.csproj.GenerateResource.Cache
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Debug\Simplex.exe
+C:\Users\Guergolet Server\AppData\Local\Temporary Projects\Simplex\obj\Debug\Simplex.pdb
+D:\Faculdade\Simplex\Simplex\obj\Debug\Simplex.exe
+D:\Faculdade\Simplex\Simplex\obj\Debug\Simplex.pdb
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Debug\Simplex.exe
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Debug\Simplex.pdb
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\bin\Debug\Simplex.exe
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\bin\Debug\Simplex.pdb
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Debug\Simplex.Form1.resources
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.Cache
+C:\Users\Guergolet\Documents\Visual Studio 2008\Projects\simplex\Simplex\Simplex\obj\Debug\Simplex.frmResults.resources
+C:\Users\gustavo\Desktop\simplex\obj\Debug\Simplex.exe
+C:\Users\gustavo\Desktop\simplex\obj\Debug\Simplex.pdb
+C:\Users\gustavo\Desktop\simplex\bin\Debug\Simplex.exe
+C:\Users\gustavo\Desktop\simplex\bin\Debug\Simplex.pdb
+C:\Users\gustavo\Desktop\simplex\obj\Debug\Simplex.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\simplex\obj\Debug\Simplex.Form1.resources
+C:\Users\gustavo\Desktop\simplex\obj\Debug\Simplex.frmResults.resources
+C:\Users\gustavo\Desktop\simplex\obj\Debug\Simplex.Properties.Resources.resources
+C:\Users\gustavo\Desktop\simplex\obj\Debug\Simplex.csproj.GenerateResource.Cache
+D:\Onedrive\Downloads\simplex\bin\Debug\Simplex.exe.config
+D:\Onedrive\Downloads\simplex\bin\Debug\Simplex.exe
+D:\Onedrive\Downloads\simplex\bin\Debug\Simplex.pdb
+D:\Onedrive\Downloads\simplex\obj\Debug\Simplex.csprojResolveAssemblyReference.cache
+D:\Onedrive\Downloads\simplex\obj\Debug\Simplex.Form1.resources
+D:\Onedrive\Downloads\simplex\obj\Debug\Simplex.frmResults.resources
+D:\Onedrive\Downloads\simplex\obj\Debug\Simplex.Properties.Resources.resources
+D:\Onedrive\Downloads\simplex\obj\Debug\Simplex.csproj.GenerateResource.Cache
+D:\Onedrive\Downloads\simplex\obj\Debug\Simplex.exe
+D:\Onedrive\Downloads\simplex\obj\Debug\Simplex.pdb
